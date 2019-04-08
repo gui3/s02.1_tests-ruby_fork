@@ -1,8 +1,8 @@
 
 # EXoS sur les TESTS
 
-voilà les exercices de test
-on en a bavé mais grâce à Dieu 🙌🙌 nous voilà
+Voilà les exercices de test...
+On en a bavé mais Grâce à Dieu 🙌🙌 nous voilà
 
 ## le groupe
 

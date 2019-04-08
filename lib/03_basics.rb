@@ -1,8 +1,5 @@
-def who_is_bigger(*args)
-  names = [:a,:b,:c]
-  return args.include?(nil) ?
-    "nil detected" :
-    "#{names[args.find_index(args.max)]} is bigger"
+def who_is_bigger(*a)
+  a.include?(nil)?"nil detected":"#{[:a,:b,:c][a.find_index(a.max)]} is bigger"
 end
 
 def reverse_upcase_noLTA (str)

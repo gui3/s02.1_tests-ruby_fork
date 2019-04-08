@@ -43,7 +43,7 @@ describe "#translate" do
 
   it "translates many words" do
     s = translate("the quick brown fox")
-    expect(s).to eq("ethay ickq>uay ownbray oxfay")
+    expect(s).to eq("ethay ickquay ownbray oxfay")
   end
 
   # Test-driving bonus:
